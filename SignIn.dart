@@ -290,7 +290,7 @@ class _SignInState extends State<SignIn> {
                 padding: EdgeInsets.all(10),
               ),
               Text(
-                'devloped by abhay1205',
+                'devloped by ankita_gupta',
                 textAlign: TextAlign.center,
                 style: TextStyle(fontSize: 10, color: Colors.blue),
               )
