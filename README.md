@@ -8,10 +8,7 @@ Implementing GoogleSignIn and custom Email SignIn and SignUp using Firebase
 
 
 
-3:50 pm
-You
-Photo
-
+Check the login page link - https://ibb.co/GpjX3p1
 ## Getting Started with prerequisites
 
 1. Migrate the app to AndroidX from android.support libraries
